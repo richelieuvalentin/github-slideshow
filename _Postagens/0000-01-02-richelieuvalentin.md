@@ -2,5 +2,5 @@
  layout : slide 
 title : " Bem-vindo ao nosso segundo slide! "
 ---
-Seu texto 
+Cest'la vie
 Use a seta esquerda para voltar!
